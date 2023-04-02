@@ -8,12 +8,6 @@
 
 <a href="https://www.themealdb.com/api.php" target='_blank'>Here's the link to the API</a>
 
-<h3>All Images from the project</h3>
-<img src="ProjectImages/Screenshot (8).png" >
-<img src="ProjectImages/Screenshot (9).png" >
-<img src="ProjectImages/Screenshot (10).png" >
-<img src="ProjectImages/Screenshot (11).png" >
-
 
 
 </body>

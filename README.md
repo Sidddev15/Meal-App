@@ -11,7 +11,7 @@
 <h3>All Images from the project</h3>
 
 <div>
-  <img src="ProjectImages/Screenshot(8) />
+  <img src="ProjectImages/Screenshot (8) />
 
 </div>
 
